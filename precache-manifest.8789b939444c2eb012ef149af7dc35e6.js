@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "9d940b7227fa92001f62",
-    "url": "/static/css/main.02867c7d.chunk.css"
+    "revision": "3ab4af34b7554f02454d",
+    "url": "/static/css/main.74f94507.chunk.css"
   },
   {
-    "revision": "9d940b7227fa92001f62",
-    "url": "/static/js/main.9d940b72.chunk.js"
+    "revision": "3ab4af34b7554f02454d",
+    "url": "/static/js/main.3ab4af34.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "3d654cd720534ac44f93",
+    "revision": "8317f9c8fa77393deb8d",
     "url": "/static/css/2.e8cbe989.chunk.css"
   },
   {
-    "revision": "3d654cd720534ac44f93",
-    "url": "/static/js/2.3d654cd7.chunk.js"
+    "revision": "8317f9c8fa77393deb8d",
+    "url": "/static/js/2.8317f9c8.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
@@ -30,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "960fa7fd0a36f939c73d1cad973ad40a",
     "url": "/static/media/bg.960fa7fd.png"
+  },
+  {
+    "revision": "6b6e088fe012de77b6195f1a6e8eb2ef",
+    "url": "/static/media/audit.6b6e088f.pdf"
   },
   {
     "revision": "78baf9b6cff11c236e5998edaef38b8d",
@@ -72,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/reddit.05a38a65.svg"
   },
   {
-    "revision": "dd6cc46ea5f5148f57b0fbde58170076",
+    "revision": "519519814073473150d0dbebbea18080",
     "url": "/index.html"
   }
 ];
