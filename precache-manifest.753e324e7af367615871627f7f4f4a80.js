@@ -1,27 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "e5be7eb85ae1d0325a06",
-    "url": "/static/css/main.2948781c.chunk.css"
+    "revision": "34611b414898c58feba1",
+    "url": "/static/css/main.fdb2445a.chunk.css"
   },
   {
-    "revision": "e5be7eb85ae1d0325a06",
-    "url": "/static/js/main.e5be7eb8.chunk.js"
+    "revision": "34611b414898c58feba1",
+    "url": "/static/js/main.34611b41.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "a972d96cb8944d1d11b4",
-    "url": "/static/css/2.e8cbe989.chunk.css"
+    "revision": "9ebd259d00967a6123c9",
+    "url": "/static/css/2.951d2a4d.chunk.css"
   },
   {
-    "revision": "a972d96cb8944d1d11b4",
-    "url": "/static/js/2.a972d96c.chunk.js"
+    "revision": "9ebd259d00967a6123c9",
+    "url": "/static/js/2.9ebd259d.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
     "url": "/static/media/shibaIcon.b6ad90a2.png"
+  },
+  {
+    "revision": "b423392f9d0bfa5cadb495cf6cd40721",
+    "url": "/static/media/questionMark.b423392f.png"
   },
   {
     "revision": "b6f7b6bbcd9ea347d4b64ba012b4e261",
@@ -160,7 +164,7 @@ self.__precacheManifest = [
     "url": "/static/media/trophy.136c13d3.svg"
   },
   {
-    "revision": "27dbd8a207b1575872665ccc2402a7f3",
+    "revision": "31353687db5e6893a62285c81f69af3f",
     "url": "/index.html"
   }
 ];
