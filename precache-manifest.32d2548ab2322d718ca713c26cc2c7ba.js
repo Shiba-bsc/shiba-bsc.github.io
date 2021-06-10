@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e99bcbcab844e8927f36",
-    "url": "/static/css/main.74c533fb.chunk.css"
+    "revision": "7f57bd97f3a9a453b39e",
+    "url": "/static/css/main.06b0dafe.chunk.css"
   },
   {
-    "revision": "e99bcbcab844e8927f36",
-    "url": "/static/js/main.e99bcbca.chunk.js"
+    "revision": "7f57bd97f3a9a453b39e",
+    "url": "/static/js/main.7f57bd97.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "b57e4b39314bcd662e2e",
-    "url": "/static/css/2.2226350e.chunk.css"
+    "revision": "d113905d9048f3ce1699",
+    "url": "/static/css/2.920273ea.chunk.css"
   },
   {
-    "revision": "b57e4b39314bcd662e2e",
-    "url": "/static/js/2.b57e4b39.chunk.js"
+    "revision": "d113905d9048f3ce1699",
+    "url": "/static/js/2.d113905d.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
     "url": "/static/media/trophy.136c13d3.svg"
   },
   {
-    "revision": "d53b135c038dedbb658fbae653c3f341",
+    "revision": "a2cb9ba7f9b1def680091a3f86da3b02",
     "url": "/index.html"
   }
 ];
