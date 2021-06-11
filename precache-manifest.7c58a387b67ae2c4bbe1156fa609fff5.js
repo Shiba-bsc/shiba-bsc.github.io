@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e99bcbcab844e8927f36",
-    "url": "/static/css/main.74c533fb.chunk.css"
+    "revision": "da83f39760c37b393b50",
+    "url": "/static/css/main.e3682167.chunk.css"
   },
   {
-    "revision": "e99bcbcab844e8927f36",
-    "url": "/static/js/main.e99bcbca.chunk.js"
+    "revision": "da83f39760c37b393b50",
+    "url": "/static/js/main.da83f397.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "b57e4b39314bcd662e2e",
+    "revision": "262e120cd816bc8d6a57",
     "url": "/static/css/2.2226350e.chunk.css"
   },
   {
-    "revision": "b57e4b39314bcd662e2e",
-    "url": "/static/js/2.b57e4b39.chunk.js"
+    "revision": "262e120cd816bc8d6a57",
+    "url": "/static/js/2.262e120c.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
@@ -180,7 +180,43 @@ self.__precacheManifest = [
     "url": "/static/media/trophy.136c13d3.svg"
   },
   {
-    "revision": "d53b135c038dedbb658fbae653c3f341",
+    "revision": "0c83ab2e0cdd2afd85edf6cec9b5b7e8",
+    "url": "/static/media/banner.0c83ab2e.svg"
+  },
+  {
+    "revision": "927861e4ef9a22195e351c5e6fee424a",
+    "url": "/static/media/icon1.927861e4.svg"
+  },
+  {
+    "revision": "60b38d0cddcbba01f6834da2637b5ff5",
+    "url": "/static/media/icon2.60b38d0c.svg"
+  },
+  {
+    "revision": "3c4702e0744f74ab13c4586dce2650a8",
+    "url": "/static/media/icon3.3c4702e0.svg"
+  },
+  {
+    "revision": "b75556dea73a15c4b8f4d6f5a3095a3c",
+    "url": "/static/media/icon4.b75556de.svg"
+  },
+  {
+    "revision": "6b3cba682ef42f1bc34612dbda028d67",
+    "url": "/static/media/icon5.6b3cba68.svg"
+  },
+  {
+    "revision": "6c86e6b4a7e6bca62ae493d1ea82f8e2",
+    "url": "/static/media/icon6.6c86e6b4.svg"
+  },
+  {
+    "revision": "526f24c3744e9fc72d6bc1ef8047391f",
+    "url": "/static/media/icon7.526f24c3.svg"
+  },
+  {
+    "revision": "329e1726f92bb266c3bb212541768517",
+    "url": "/static/media/icon8.329e1726.svg"
+  },
+  {
+    "revision": "9f839f5a6017cb975cf4d90483c9b404",
     "url": "/index.html"
   }
 ];
