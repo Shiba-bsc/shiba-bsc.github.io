@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "99b8a62ec829252b3736",
-    "url": "/static/css/main.57fe55d9.chunk.css"
+    "revision": "fb6459a6c59c7839f93a",
+    "url": "/static/css/main.27bfeb46.chunk.css"
   },
   {
-    "revision": "99b8a62ec829252b3736",
-    "url": "/static/js/main.99b8a62e.chunk.js"
+    "revision": "fb6459a6c59c7839f93a",
+    "url": "/static/js/main.fb6459a6.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "1477982489d76600f470",
+    "revision": "729013707b20306f9a5d",
     "url": "/static/css/2.2226350e.chunk.css"
   },
   {
-    "revision": "1477982489d76600f470",
-    "url": "/static/js/2.14779824.chunk.js"
+    "revision": "729013707b20306f9a5d",
+    "url": "/static/js/2.72901370.chunk.js"
   },
   {
     "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/static/media/email.b308f170.svg"
   },
   {
-    "revision": "2de6a42dc81d0428ffd5004096d3ec54",
-    "url": "/static/media/card1.2de6a42d.svg"
+    "revision": "9d40b4c484916d2a11358164a4f451aa",
+    "url": "/static/media/card1.9d40b4c4.svg"
   },
   {
     "revision": "7306af35d17a36dfe4bac26334ebd3e6",
@@ -228,15 +228,19 @@ self.__precacheManifest = [
     "url": "/static/media/mdx.8e72f6f2.png"
   },
   {
+    "revision": "b6ad90a20b11cdfd6899f85176ddd04a",
+    "url": "/static/media/shibsc.b6ad90a2.png"
+  },
+  {
     "revision": "c5f72f8562c5a694762e2f50619460ec",
-    "url": "/static/media/bone.c5f72f85.svg"
+    "url": "/static/media/floki.c5f72f85.svg"
   },
   {
     "revision": "fb4b4a9f3fce651edff4955675e98bf3",
     "url": "/static/media/calculator.fb4b4a9f.svg"
   },
   {
-    "revision": "b5c9b3fcb57337cd7d85355a964047d0",
+    "revision": "a6650fbd0115299f8c34f22e75dd5f6b",
     "url": "/index.html"
   }
 ];
