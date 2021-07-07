@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0f9b52d14855c9b3bed5",
-    "url": "/static/css/main.7c8e49ba.chunk.css"
+    "revision": "2d682f8cb39e67a19f8e",
+    "url": "/static/css/main.b932466b.chunk.css"
   },
   {
-    "revision": "0f9b52d14855c9b3bed5",
-    "url": "/static/js/main.0f9b52d1.chunk.js"
+    "revision": "2d682f8cb39e67a19f8e",
+    "url": "/static/js/main.2d682f8c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -264,7 +264,7 @@ self.__precacheManifest = [
     "url": "/static/media/Gotham-Bold.9c35bf87.otf"
   },
   {
-    "revision": "7c671058bff955692f3c8fa31703a703",
+    "revision": "3f20d86adf35460a337a6db2e6d44467",
     "url": "/index.html"
   }
 ];
