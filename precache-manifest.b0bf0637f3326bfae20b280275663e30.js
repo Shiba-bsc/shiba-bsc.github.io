@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e13b6ec05e254e7fb909",
+    "revision": "4cbdde738e10b62b913e",
     "url": "/static/css/main.b932466b.chunk.css"
   },
   {
-    "revision": "e13b6ec05e254e7fb909",
-    "url": "/static/js/main.e13b6ec0.chunk.js"
+    "revision": "4cbdde738e10b62b913e",
+    "url": "/static/js/main.4cbdde73.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo.c5b894ea.png"
   },
   {
-    "revision": "6b6e088fe012de77b6195f1a6e8eb2ef",
-    "url": "/static/media/audit.6b6e088f.pdf"
+    "revision": "0785d0c99553473a0afa16aaa649cb34",
+    "url": "/static/media/wp.0785d0c9.pdf"
   },
   {
     "revision": "f93d5fbe4aaec481f2eb4749fe8b9702",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/static/media/github.17462ce7.svg"
   },
   {
-    "revision": "010487c197a95eba600f647b08416576",
-    "url": "/static/media/banner.010487c1.png"
+    "revision": "0ab5e2186fdf4b6a21d86c7b1e476172",
+    "url": "/static/media/banner.0ab5e218.png"
   },
   {
     "revision": "94c55301ae349adaa3cf6dcdc48c9064",
@@ -256,15 +256,15 @@ self.__precacheManifest = [
     "url": "/static/media/calculator.fb4b4a9f.svg"
   },
   {
-    "revision": "9c35bf87f23c8cca614720126fe0baa0",
-    "url": "/static/media/Gotham-Bold.9c35bf87.otf"
-  },
-  {
     "revision": "14b3a355f612d6181e891efd2c798b5f",
     "url": "/static/media/Gotham-Black.14b3a355.otf"
   },
   {
-    "revision": "210e93ccf7e2a83e72e6ed0afb17da9e",
+    "revision": "9c35bf87f23c8cca614720126fe0baa0",
+    "url": "/static/media/Gotham-Bold.9c35bf87.otf"
+  },
+  {
+    "revision": "8f8b8978c3c1c2c69974ec45c71c7331",
     "url": "/index.html"
   }
 ];

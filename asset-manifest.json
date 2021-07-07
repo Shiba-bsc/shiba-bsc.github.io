@@ -1,21 +1,20 @@
 {
   "main.css": "/static/css/main.b932466b.chunk.css",
-  "main.js": "/static/js/main.e13b6ec0.chunk.js",
-  "main.js.map": "/static/js/main.e13b6ec0.chunk.js.map",
+  "main.js": "/static/js/main.4cbdde73.chunk.js",
+  "main.js.map": "/static/js/main.4cbdde73.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
   "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
   "static/css/2.2226350e.chunk.css": "/static/css/2.2226350e.chunk.css",
   "static/js/2.86a4e530.chunk.js": "/static/js/2.86a4e530.chunk.js",
   "static/js/2.86a4e530.chunk.js.map": "/static/js/2.86a4e530.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.db8fe640a3fcfb2349927c41647ff3c7.js": "/precache-manifest.db8fe640a3fcfb2349927c41647ff3c7.js",
+  "precache-manifest.b0bf0637f3326bfae20b280275663e30.js": "/precache-manifest.b0bf0637f3326bfae20b280275663e30.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.2226350e.chunk.css.map": "/static/css/2.2226350e.chunk.css.map",
   "static/css/main.b932466b.chunk.css.map": "/static/css/main.b932466b.chunk.css.map",
   "static/media/App.scss": "/static/media/Gotham-Bold.9c35bf87.otf",
   "static/media/anne.png": "/static/media/anne.f5f92088.png",
-  "static/media/audit.pdf": "/static/media/audit.6b6e088f.pdf",
-  "static/media/banner.png": "/static/media/banner.010487c1.png",
+  "static/media/banner.png": "/static/media/banner.0ab5e218.png",
   "static/media/banner.svg": "/static/media/banner.0c83ab2e.svg",
   "static/media/bnb.svg": "/static/media/bnb.97e3a8c8.svg",
   "static/media/bogo.png": "/static/media/bogo.27d8db48.png",
@@ -70,5 +69,6 @@
   "static/media/tomas.png": "/static/media/tomas.a0722af4.png",
   "static/media/trophy.svg": "/static/media/trophy.136c13d3.svg",
   "static/media/twitter.svg": "/static/media/twitter.e26996ca.svg",
-  "static/media/veriticalBrun.svg": "/static/media/veriticalBrun.1a1cdddb.svg"
+  "static/media/veriticalBrun.svg": "/static/media/veriticalBrun.1a1cdddb.svg",
+  "static/media/wp.pdf": "/static/media/wp.0785d0c9.pdf"
 }
